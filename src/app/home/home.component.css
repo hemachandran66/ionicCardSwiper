@@ -1,0 +1,112 @@
+.home-page {
+    background: #4EB87Cff;
+    overflow: hidden;
+    height: 50vh;
+}
+
+.header {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+body {
+    background: #CCFBFE;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+.profile-pic {
+    width: 90vw;
+    height: 55vh;
+}
+
+/* .chip-container{
+    position:absolute;
+    bottom:80px;
+} */
+.card-bottom {
+    display: inline-flex;
+    flex-direction: row;
+    margin: 10px;
+    margin-top: -15px;
+}
+
+.button-container {
+    display: flex;
+    position: absolute;
+    right: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ion-icon {
+    margin-left: 5px;
+    margin-bottom: -2px;
+    width: 25px;
+    height: 20px;
+}
+
+.back-arrow {
+    width: 50px;
+    margin-right: 30px;
+    margin-bottom: -4px;
+    color: white;
+}
+
+.checkmark {
+    width: 50px;
+    height: 25px;
+    background-color: bisque;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-bottom: -5px;
+}
+
+.id-container {
+    margin-top: 4px;
+}
+
+.back-arrow-info {
+    color: black;
+    margin-left: 0px;
+}
+.shorlist{
+    width:120px;
+    height: 30px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+.call{
+    width:80px;
+    height: 30px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    margin-left: 5px;
+    border: 1px solid grey;
+}
+.video{
+    width:100px;
+    height: 30px;
+    margin-left: 5px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+h3 {
+    font-weight: 500px;
+    margin: -5px 0px -10px;
+}
+
+#background-content {
+    margin-top: -35px !important;
+    z-index: 20 !important;
+}
+
+.info-pic {
+    width: 100vw;
+    height: 60vh;
+}
